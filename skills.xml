@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<Skills>
+		<Testing>Manual Testing</Testing>
+		<Testing>Test cases, plans and suits</Testing>
+		<Testing>Defects and Bug tracking</Testing>
+		<Database_Management>MySQL</Database_Management>
+		<Tools>Postman</Tools>
+		<Tools>Charles</Tools>
+		<Tools>Fiddler</Tools>
+		<Tools>Jmeter</Tools>
+		<Reading>Http</Reading>
+		<Reading>CSS</Reading>
+		<Reading>JS</Reading>
+		<Terminal>Linux</Terminal>
+		<Structure>Json</Structure>
+		<Structure>XML</Structure>
+	</Skills>
