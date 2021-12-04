@@ -1,1 +1,16 @@
-Hello
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Bug_report>
+	<Envoriment>Win 10</Envoriment>
+	<Build>1.00</Build>
+	<Id>C014</Id>
+	<Title>Error 404 on main page</Title>
+	<Actual_result>Cant find page</Actual_result>
+	<Expected_result>Page opens</Expected_result>
+	<Workaround>No</Workaround>
+	<Reproducibility>Always</Reproducibility>
+	<Severinity>S1</Severinity>
+	<Priority>Hight</Priority>
+	<Attachment>Picture</Attachment>
+	<Status>New</Status>
+</Bug_report>
